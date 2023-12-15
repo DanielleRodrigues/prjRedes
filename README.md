@@ -1,7 +1,7 @@
 # Projeto Final de Redes
 Projeto final do módulo 3 Redes do bootcamp da Ada em parceria Ifood.
 
-#Objetivo Final:
+# Objetivo Final:
 Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a comunicação entre elas. As redes devem seguir a orientação abaixo:
 
 • Deve-se utilizar a rede 192.168.20.0 . Essa rede deve conter 4 subredes de tamanho igual que vão corresponder aos seguintes departamentos:
